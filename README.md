@@ -1,2 +1,3 @@
-# Front-end for my Rails project #
-Coming soon
+# Study project «Barbershop»
+
+* Student: [Wladimir Boichuk](https://wladimirboichuk.com).
